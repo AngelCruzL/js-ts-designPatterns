@@ -4,4 +4,5 @@
 // import './02-singleton/singleton.ts';
 // import './02-singleton/example.ts';
 // import './03-strategy/strategy.js';
-import './03-strategy/strategy.ts';
+// import './03-strategy/strategy.ts';
+import './03-strategy/example.ts';
