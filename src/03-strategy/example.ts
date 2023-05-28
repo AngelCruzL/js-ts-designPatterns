@@ -1,3 +1,5 @@
+import './set-html.ts';
+
 import { Beer as BeerType, mockData } from './data.ts';
 
 interface Strategy {
