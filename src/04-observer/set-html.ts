@@ -1,6 +1,4 @@
-const app = document.getElementById('app')!;
-
-app.insertAdjacentHTML(
+document.getElementById('app')!.insertAdjacentHTML(
   'beforeend',
   `
   <label class="mt-5" for="myInput">Escribe algo</label>

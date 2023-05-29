@@ -1,6 +1,4 @@
-const app = document.getElementById('app')!;
-
-app.insertAdjacentHTML(
+document.getElementById('app')!.insertAdjacentHTML(
   'beforeend',
   `
   <div class="my-5">
